@@ -1,0 +1,10 @@
+ Volume in drive C is Windows
+ Volume Serial Number is EE41-5B0D
+
+ Directory of C:\Users\priya\OneDrive\Desktop\folder1
+
+11/09/2022  08:15 PM    <DIR>          .
+11/09/2022  07:51 PM    <DIR>          ..
+11/09/2022  08:15 PM                 0 m1.txt
+               1 File(s)              0 bytes
+               2 Dir(s)  42,713,739,264 bytes free
